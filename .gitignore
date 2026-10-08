@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.xlsx
+*.zip
+todos_materiais_de_apoio_*/
+.DS_Store
