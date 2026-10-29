@@ -7,7 +7,7 @@
 
 **Integrantes:** Joao Wictor Decarli; Rafael Lucas Rockenbach; Gabriel Victor Rosario; Bernardo Dal Piva Bernardi
 
-**Turma:** Abex VI
+**Turma:** BX
 
 **Data:** 08/10/2026
 
@@ -126,9 +126,9 @@ A analise por fase do dia indicou que o periodo de **amanhecer** concentra a mai
 
 ### 3.3 Relacoes, cruzamentos e insights iniciais
 
-As analises de associacao (V de Cramer) entre cada variavel explicativa e a `classificacao_acidente` indicaram que as variaveis com maior associacao sao `tipo_acidente`, `macrocausa` e `tipo_pista`. Variaveis como `condicao_metereologica` e `fase_dia` apresentaram associacoes estatisticamente significativas pelo teste qui-quadrado, mas com V de Cramer baixo, indicando que o efeito e real, porem de magnitude limitada.
+As analises de associacao (V de Cramer) entre cada variavel explicativa e a `classificacao_acidente` indicaram que as variaveis com maior associacao sao `tipo_acidente` e `causa_acidente` (via `macrocausa`), seguidas de `fase_dia` (V = 0,11) e `uso_solo` (V = 0,09). `tipo_pista` apresentou V de Cramer de apenas 0,05, abaixo dessas quatro variaveis. Todas as associacoes foram estatisticamente significativas pelo qui-quadrado, mas os valores de V de Cramer sao baixos a moderados, indicando que nenhuma variavel isolada determina a gravidade.
 
-Um insight relevante e o contraste entre frequencia e letalidade: os tipos de acidente mais comuns (colisao traseira, saida de leito carrocavel) nao sao os mais letais. A colisao frontal representa apenas 6,1% dos casos, mas concentra 37,3% de toda a letalidade relativa. Esse padrao sugere que acoes preventivas da PRF e do DNIT devem priorizar a reducao de colisoes frontais (sinalizacao, barreiras fisicas de separacao de faixas, fiscalizacao de ultrapassagens proibidas) mesmo que o numero absoluto de casos seja menor.
+Um insight relevante e o contraste entre frequencia e letalidade: os tipos de acidente mais comuns (colisao traseira, saida de leito carrocavel) nao sao os mais letais. A colisao frontal representa apenas 6,1% dos casos registrados, mas e responsavel por 37,3% de todas as mortes do periodo. Esse contraste entre frequencia e impacto sugere que acoes preventivas da PRF e do DNIT devem priorizar a reducao de colisoes frontais (sinalizacao, barreiras fisicas de separacao de faixas, fiscalizacao de ultrapassagens proibidas) mesmo que o numero absoluto de casos seja menor.
 
 **Importante:** associacao estatistica nao implica causalidade. Alem disso, a ausencia de dados de volume de trafego impede calcular o risco relativo por quilometro percorrido. Todos os percentuais e indices de letalidade refletem os registros de acidentes, nao o risco de um veiculo ser envolvido em acidente ao percorrer determinado trecho.
 
@@ -138,6 +138,8 @@ Um insight relevante e o contraste entre frequencia e letalidade: os tipos de ac
 - **Ausencia de volume de trafego:** sem dados de fluxo de veiculos por trecho, nao e possivel calcular taxa de acidentes por quilometro percorrido. Comparacoes entre rodovias ou estados com base em contagens absolutas nao refletem risco real.
 - **Cobertura restrita:** a base inclui apenas acidentes registrados pela PRF em rodovias federais. Acidentes em rodovias estaduais, municipais e vias urbanas nao estao representados.
 - **Qualidade do registro:** variaveis como `causa_acidente` dependem do julgamento do policial no momento do registro, o que pode introduzir subjetividade e variacoes entre regioes ou turnos.
+- **Desbalanceamento do alvo para modelagem:** o alvo binario `grave_ou_fatal` apresenta apenas 24,6% de casos positivos. Sem compensacao (como `class_weight='balanced'`), um modelo trivial que sempre prediz "nao grave" ja atingiria 75% de acuracia, tornando essa metrica inutil. Por isso, o projeto priorizou F1 macro e recall da classe positiva como metricas principais.
+- **Features pos-acidente:** `tipo_acidente` e `causa_acidente` sao registrados pela PRF apos o acidente, nao sendo variaveis de contexto pre-evento. O modelo tem valor descritivo e associativo, mas nao prediz gravidade antes do acidente acontecer. Para uso operacional preventivo em tempo real, essas features deveriam ser excluidas.
 
 ---
 
