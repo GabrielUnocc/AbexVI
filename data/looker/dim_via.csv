@@ -1,0 +1,394 @@
+id_via,tipo_pista,tracado_via_norm,sentido_via
+1,Dupla,Curva,Crescente
+2,Dupla,Reta,Crescente
+3,Dupla,Curva,Decrescente
+4,Dupla,Reta,Decrescente
+5,Simples,Interseção de Vias;Reta;Rotatória,Decrescente
+6,Simples,Desvio Temporário;Em Obras;Reta,Decrescente
+7,Simples,Reta,Decrescente
+8,Dupla,Aclive;Reta,Decrescente
+9,Simples,Declive;Reta,Decrescente
+10,Simples,Aclive;Reta,Decrescente
+11,Simples,Aclive;Curva,Decrescente
+12,Simples,Reta,Crescente
+13,Simples,Interseção de Vias,Decrescente
+14,Dupla,Aclive;Reta,Crescente
+15,Dupla,Declive;Reta,Crescente
+16,Dupla,Aclive,Decrescente
+17,Simples,Interseção de Vias,Crescente
+18,Dupla,Interseção de Vias,Decrescente
+19,Dupla,Aclive;Curva,Decrescente
+20,Dupla,Desvio Temporário,Decrescente
+21,Simples,Rotatória,Decrescente
+22,Simples,Curva,Decrescente
+23,Simples,Aclive,Crescente
+24,Dupla,Curva;Declive,Decrescente
+25,Simples,Curva;Declive,Decrescente
+26,Simples,Rotatória,Crescente
+27,Múltipla,Reta,Decrescente
+28,Dupla,Interseção de Vias,Crescente
+29,Simples,Curva,Crescente
+30,Simples,Interseção de Vias;Reta,Crescente
+31,Dupla,Aclive;Reta;Retorno Regulamentado,Decrescente
+32,Simples,Curva;Em Obras,Crescente
+33,Dupla,Curva;Declive,Crescente
+34,Simples,Curva;Declive,Crescente
+35,Dupla,Declive;Reta,Decrescente
+36,Múltipla,Reta,Crescente
+37,Dupla,Retorno Regulamentado;Viaduto,Crescente
+38,Simples,Declive,Crescente
+39,Simples,Declive;Reta,Crescente
+40,Simples,Aclive,Decrescente
+41,Simples,Aclive;Curva;Interseção de Vias,Crescente
+42,Simples,Curva;Viaduto,Decrescente
+43,Simples,Declive;Em Obras;Reta,Crescente
+44,Dupla,Aclive;Interseção de Vias;Reta,Decrescente
+45,Múltipla,Declive;Reta,Decrescente
+46,Dupla,Reta;Viaduto,Decrescente
+47,Dupla,Interseção de Vias;Reta;Viaduto,Decrescente
+48,Simples,Em Obras;Reta,Decrescente
+49,Dupla,Reta;Túnel,Crescente
+50,Simples,Curva;Em Obras,Decrescente
+51,Dupla,Em Obras;Reta,Crescente
+52,Dupla,Interseção de Vias;Reta,Crescente
+53,Simples,Em Obras;Reta,Crescente
+54,Simples,Declive,Decrescente
+55,Dupla,Aclive,Crescente
+56,Simples,Interseção de Vias;Rotatória,Crescente
+57,Dupla,Curva;Declive;Ponte,Decrescente
+58,Simples,Interseção de Vias;Reta,Decrescente
+59,Simples,Retorno Regulamentado,Decrescente
+60,Múltipla,Aclive;Curva;Interseção de Vias,Crescente
+61,Múltipla,Aclive,Crescente
+62,Dupla,Curva;Ponte,Crescente
+63,Múltipla,Interseção de Vias;Reta,Crescente
+64,Dupla,Aclive;Curva;Em Obras,Decrescente
+65,Dupla,Curva;Interseção de Vias,Decrescente
+66,Simples,Aclive;Curva,Crescente
+67,Simples,Aclive;Reta,Crescente
+68,Dupla,Reta;Retorno Regulamentado,Decrescente
+69,Dupla,Aclive;Curva;Viaduto,Crescente
+70,Simples,Reta;Retorno Regulamentado,Crescente
+71,Múltipla,Viaduto,Crescente
+72,Múltipla,Curva;Declive,Decrescente
+73,Simples,Reta;Retorno Regulamentado,Decrescente
+74,Dupla,Declive,Crescente
+75,Dupla,Interseção de Vias;Viaduto,Decrescente
+76,Simples,Declive;Reta;Retorno Regulamentado,Decrescente
+77,Simples,Aclive;Desvio Temporário;Em Obras,Decrescente
+78,Dupla,Reta;Rotatória,Decrescente
+79,Dupla,Aclive;Curva,Crescente
+80,Múltipla,Aclive;Reta,Decrescente
+81,Dupla,Aclive;Reta;Viaduto,Crescente
+82,Simples,Interseção de Vias;Reta;Retorno Regulamentado,Decrescente
+83,Simples,Aclive;Interseção de Vias;Reta,Decrescente
+84,Múltipla,Curva,Decrescente
+85,Dupla,Reta;Viaduto,Crescente
+86,Dupla,Declive;Em Obras;Reta;Viaduto,Crescente
+87,Múltipla,Aclive;Reta;Viaduto,Decrescente
+88,Dupla,Rotatória;Viaduto,Crescente
+89,Simples,Curva;Interseção de Vias,Decrescente
+90,Dupla,Declive;Interseção de Vias;Reta;Retorno Regulamentado,Crescente
+91,Múltipla,Aclive;Curva,Decrescente
+92,Dupla,Rotatória,Decrescente
+93,Simples,Viaduto,Decrescente
+94,Múltipla,Declive;Reta;Viaduto,Decrescente
+95,Simples,Curva;Declive;Em Obras;Interseção de Vias,Decrescente
+96,Simples,Desvio Temporário;Em Obras,Decrescente
+97,Simples,Ponte;Reta,Crescente
+98,Múltipla,Reta;Viaduto,Decrescente
+99,Dupla,Declive;Reta;Viaduto,Decrescente
+100,Dupla,Curva;Viaduto,Crescente
+101,Múltipla,Aclive;Reta,Crescente
+102,Múltipla,Declive;Reta,Crescente
+103,Dupla,Curva;Em Obras,Crescente
+104,Dupla,Em Obras;Reta,Decrescente
+105,Dupla,Ponte;Reta,Crescente
+106,Dupla,Curva;Declive;Viaduto,Crescente
+107,Dupla,Ponte,Crescente
+108,Simples,Desvio Temporário;Em Obras;Interseção de Vias;Reta,Decrescente
+109,Múltipla,Declive,Crescente
+110,Simples,Interseção de Vias;Reta;Rotatória,Crescente
+111,Múltipla,Desvio Temporário;Reta,Decrescente
+112,Dupla,Reta;Retorno Regulamentado,Crescente
+113,Dupla,Interseção de Vias;Reta,Decrescente
+114,Múltipla,Curva;Viaduto,Crescente
+115,Dupla,Aclive;Interseção de Vias;Reta;Viaduto,Decrescente
+116,Simples,Interseção de Vias;Retorno Regulamentado;Rotatória,Decrescente
+117,Múltipla,Curva;Declive,Crescente
+118,Múltipla,Curva,Crescente
+119,Simples,Reta;Retorno Regulamentado;Rotatória,Decrescente
+120,Dupla,Reta;Rotatória,Crescente
+121,Múltipla,Aclive;Interseção de Vias;Reta,Crescente
+122,Simples,Em Obras;Ponte;Reta,Decrescente
+123,Simples,Curva;Viaduto,Crescente
+124,Simples,Viaduto,Crescente
+125,Simples,Interseção de Vias;Rotatória,Decrescente
+126,Dupla,Aclive;Rotatória,Crescente
+127,Simples,Curva;Ponte,Crescente
+128,Dupla,Declive;Em Obras;Reta,Decrescente
+129,Múltipla,Declive,Decrescente
+130,Simples,Ponte,Crescente
+131,Simples,Declive;Interseção de Vias;Reta,Crescente
+132,Múltipla,Curva;Interseção de Vias,Crescente
+133,Múltipla,Interseção de Vias,Crescente
+134,Dupla,Retorno Regulamentado,Crescente
+135,Dupla,Ponte;Reta,Decrescente
+136,Simples,Curva;Interseção de Vias;Rotatória,Crescente
+137,Simples,Ponte,Decrescente
+138,Dupla,Curva;Ponte,Decrescente
+139,Dupla,Declive,Decrescente
+140,Dupla,Aclive;Em Obras;Reta,Crescente
+141,Simples,Declive;Em Obras;Reta,Decrescente
+142,Simples,Reta;Túnel,Decrescente
+143,Simples,Interseção de Vias;Reta;Retorno Regulamentado,Crescente
+144,Dupla,Aclive;Curva;Interseção de Vias,Decrescente
+145,Simples,Retorno Regulamentado;Viaduto,Crescente
+146,Dupla,Curva;Interseção de Vias,Crescente
+147,Dupla,Rotatória,Crescente
+148,Simples,Aclive;Curva;Em Obras,Crescente
+149,Simples,Declive;Interseção de Vias,Decrescente
+150,Simples,Ponte;Reta,Decrescente
+151,Dupla,Curva;Viaduto,Decrescente
+152,Múltipla,Aclive,Decrescente
+153,Simples,Curva;Retorno Regulamentado,Crescente
+154,Múltipla,Ponte;Reta,Crescente
+155,Simples,Curva;Retorno Regulamentado;Rotatória,Decrescente
+156,Simples,Aclive;Curva;Interseção de Vias;Viaduto,Crescente
+157,Dupla,Viaduto,Decrescente
+158,Simples,Aclive;Curva;Rotatória,Decrescente
+159,Dupla,Declive;Em Obras;Reta,Crescente
+160,Dupla,Túnel,Decrescente
+161,Dupla,Reta,
+162,Dupla,Interseção de Vias;Rotatória,Crescente
+163,Múltipla,Reta;Retorno Regulamentado,Decrescente
+164,Simples,Curva;Ponte,Decrescente
+165,Múltipla,Interseção de Vias,Decrescente
+166,Múltipla,Interseção de Vias;Reta,Decrescente
+167,Dupla,Aclive;Curva;Retorno Regulamentado;Viaduto,Crescente
+168,Dupla,Interseção de Vias;Reta;Rotatória,Crescente
+169,Simples,Interseção de Vias;Reta,
+170,Dupla,Declive;Ponte;Reta,Crescente
+171,Simples,Retorno Regulamentado,Crescente
+172,Simples,Curva;Em Obras;Viaduto,Decrescente
+173,Dupla,Desvio Temporário;Em Obras;Reta,Decrescente
+174,Dupla,Curva;Em Obras,Decrescente
+175,Múltipla,Em Obras;Reta,Crescente
+176,Dupla,Curva;Declive;Ponte,Crescente
+177,Simples,Curva;Interseção de Vias;Viaduto,Decrescente
+178,Simples,Retorno Regulamentado;Rotatória,Crescente
+179,Simples,Retorno Regulamentado;Rotatória;Viaduto,Decrescente
+180,Dupla,Em Obras;Reta;Viaduto,Crescente
+181,Dupla,Reta;Túnel,Decrescente
+182,Simples,Interseção de Vias;Retorno Regulamentado,Decrescente
+183,Simples,Curva;Rotatória,Crescente
+184,Simples,Reta;Rotatória,Crescente
+185,Dupla,Declive;Reta;Viaduto,Crescente
+186,Simples,Aclive;Reta;Retorno Regulamentado,Crescente
+187,Simples,Aclive;Viaduto,Crescente
+188,Múltipla,Curva;Viaduto,Decrescente
+189,Simples,Declive;Em Obras;Ponte,Crescente
+190,Dupla,Curva;Declive;Em Obras,Crescente
+191,Múltipla,Aclive;Curva,Crescente
+192,Múltipla,Rotatória,Crescente
+193,Simples,Interseção de Vias;Retorno Regulamentado,Crescente
+194,Múltipla,Curva;Rotatória,Crescente
+195,Múltipla,Declive;Reta;Viaduto,Crescente
+196,Dupla,Curva;Retorno Regulamentado,Decrescente
+197,Simples,Aclive;Interseção de Vias;Reta,Crescente
+198,Dupla,Curva;Retorno Regulamentado,Crescente
+199,Simples,Em Obras;Interseção de Vias;Rotatória,Crescente
+200,Dupla,Viaduto,Crescente
+201,Dupla,Rotatória;Viaduto,Decrescente
+202,Dupla,Retorno Regulamentado,Decrescente
+203,Simples,Curva;Interseção de Vias;Rotatória,Decrescente
+204,Simples,Aclive;Em Obras;Reta,Crescente
+205,Múltipla,Reta;Viaduto,Crescente
+206,Dupla,Declive;Ponte,Crescente
+207,Dupla,Declive;Interseção de Vias;Reta;Viaduto,Decrescente
+208,Múltipla,Ponte;Reta,Decrescente
+209,Dupla,Reta;Rotatória;Viaduto,Crescente
+210,Simples,Curva;Interseção de Vias;Retorno Regulamentado,Crescente
+211,Simples,Aclive;Em Obras;Interseção de Vias;Reta,Decrescente
+212,Dupla,Aclive;Interseção de Vias;Reta,Crescente
+213,Simples,Declive;Ponte;Reta,Crescente
+214,Simples,Em Obras;Interseção de Vias;Reta,Crescente
+215,Múltipla,Em Obras;Interseção de Vias;Reta,Crescente
+216,Simples,Interseção de Vias;Viaduto,Decrescente
+217,Múltipla,Interseção de Vias;Rotatória,Crescente
+218,Dupla,Curva;Interseção de Vias;Retorno Regulamentado;Viaduto,Crescente
+219,Dupla,Declive;Interseção de Vias,Crescente
+220,Múltipla,Retorno Regulamentado;Viaduto,Crescente
+221,Múltipla,Rotatória,Decrescente
+222,Múltipla,Declive;Retorno Regulamentado,Crescente
+223,Simples,Reta;Viaduto,Crescente
+224,Simples,Curva;Interseção de Vias,Crescente
+225,Dupla,Interseção de Vias;Retorno Regulamentado,Decrescente
+226,Dupla,Aclive;Curva;Interseção de Vias,Crescente
+227,Simples,Curva;Desvio Temporário;Em Obras,Decrescente
+228,Dupla,Interseção de Vias;Retorno Regulamentado,Crescente
+229,Dupla,Em Obras,Crescente
+230,Simples,Interseção de Vias;Reta;Viaduto,Decrescente
+231,Dupla,Interseção de Vias;Reta;Retorno Regulamentado,Crescente
+232,Simples,Aclive;Curva;Retorno Regulamentado,Decrescente
+233,Dupla,Em Obras;Rotatória,Crescente
+234,Múltipla,Curva;Declive;Retorno Regulamentado,Crescente
+235,Múltipla,Em Obras;Reta,Decrescente
+236,Simples,Reta;Viaduto,Decrescente
+237,Simples,Aclive;Curva;Interseção de Vias,Decrescente
+238,Dupla,Aclive;Interseção de Vias;Reta;Rotatória,Decrescente
+239,Simples,Em Obras;Interseção de Vias;Reta,Decrescente
+240,Dupla,Declive;Reta;Retorno Regulamentado,Decrescente
+241,Múltipla,Viaduto,Decrescente
+242,Simples,Em Obras;Interseção de Vias;Rotatória;Viaduto,Crescente
+243,Simples,Em Obras,Decrescente
+244,Simples,Curva;Declive;Viaduto,Crescente
+245,Dupla,Aclive;Reta;Viaduto,Decrescente
+246,Simples,Aclive;Rotatória,Decrescente
+247,Dupla,Aclive;Ponte;Reta,Crescente
+248,Simples,Aclive;Curva;Viaduto,Crescente
+249,Simples,Curva;Em Obras;Interseção de Vias,Decrescente
+250,Simples,Em Obras;Reta;Viaduto,Decrescente
+251,Múltipla,Retorno Regulamentado,Crescente
+252,Múltipla,Interseção de Vias;Viaduto,Crescente
+253,Simples,Curva;Declive;Interseção de Vias;Rotatória,Decrescente
+254,Múltipla,Retorno Regulamentado;Rotatória;Viaduto,Decrescente
+255,Dupla,Aclive;Retorno Regulamentado,Decrescente
+256,Dupla,Interseção de Vias;Reta;Retorno Regulamentado,Decrescente
+257,Simples,Em Obras;Interseção de Vias,Decrescente
+258,Simples,Curva;Declive;Interseção de Vias,Crescente
+259,Múltipla,Curva;Desvio Temporário;Em Obras,Decrescente
+260,Dupla,Desvio Temporário,Crescente
+261,Dupla,Interseção de Vias;Rotatória;Viaduto,Crescente
+262,Dupla,Interseção de Vias;Reta;Viaduto,Crescente
+263,Simples,Declive;Interseção de Vias,
+264,Simples,Reta,
+265,Múltipla,Aclive;Curva,
+266,Múltipla,Curva;Interseção de Vias,Decrescente
+267,Simples,Curva;Declive;Ponte,Decrescente
+268,Simples,Reta;Rotatória,Decrescente
+269,Simples,Interseção de Vias;Retorno Regulamentado;Viaduto,Crescente
+270,Simples,Declive;Em Obras,Crescente
+271,Simples,Declive;Desvio Temporário;Em Obras;Reta,Crescente
+272,Simples,Em Obras;Reta;Retorno Regulamentado,Crescente
+273,Simples,Curva;Declive;Viaduto,Decrescente
+274,Múltipla,Interseção de Vias;Rotatória,Decrescente
+275,Simples,Reta;Retorno Regulamentado;Rotatória,Crescente
+276,Simples,Curva;Declive;Em Obras,Decrescente
+277,Dupla,Aclive;Curva;Interseção de Vias;Viaduto,Decrescente
+278,Múltipla,Em Obras;Interseção de Vias;Reta;Retorno Regulamentado,Decrescente
+279,Múltipla,Curva,
+280,Dupla,Curva;Desvio Temporário,Crescente
+281,Múltipla,Aclive;Interseção de Vias;Reta;Rotatória,Decrescente
+282,Simples,Curva;Declive;Interseção de Vias,Decrescente
+283,Simples,Curva;Declive;Interseção de Vias;Rotatória,Crescente
+284,Simples,Aclive;Ponte;Reta,Crescente
+285,Simples,Aclive;Em Obras;Reta,Decrescente
+286,Múltipla,Retorno Regulamentado;Rotatória,Decrescente
+287,Simples,Aclive;Curva;Viaduto,Decrescente
+288,Dupla,Aclive;Reta;Retorno Regulamentado,Crescente
+289,Simples,Curva;Rotatória,Decrescente
+290,Simples,Aclive;Curva;Desvio Temporário;Em Obras,Decrescente
+291,Simples,Aclive;Rotatória,Crescente
+292,Múltipla,Reta;Retorno Regulamentado,Crescente
+293,Dupla,Em Obras;Interseção de Vias;Reta,Decrescente
+294,Simples,Desvio Temporário,Crescente
+295,Simples,Curva;Retorno Regulamentado;Rotatória;Viaduto,Decrescente
+296,Dupla,Curva;Interseção de Vias;Viaduto,Decrescente
+297,Múltipla,Aclive;Curva;Interseção de Vias;Retorno Regulamentado,Crescente
+298,Dupla,Interseção de Vias;Rotatória,Decrescente
+299,Simples,Declive;Em Obras;Reta;Viaduto,Decrescente
+300,Dupla,Curva;Em Obras;Viaduto,Crescente
+301,Simples,Declive;Interseção de Vias;Reta,Decrescente
+302,Múltipla,Em Obras;Reta;Viaduto,Decrescente
+303,Dupla,Declive;Interseção de Vias,Decrescente
+304,Dupla,Em Obras,Decrescente
+305,Dupla,Desvio Temporário;Em Obras,Crescente
+306,Dupla,Declive;Em Obras;Interseção de Vias;Reta,Decrescente
+307,Simples,Curva;Desvio Temporário;Em Obras,Crescente
+308,Dupla,Desvio Temporário;Em Obras;Reta;Retorno Regulamentado,Crescente
+309,Simples,Reta;Retorno Regulamentado;Viaduto,Decrescente
+310,Simples,Desvio Temporário;Em Obras;Reta,Crescente
+311,Simples,Aclive;Curva;Em Obras,Decrescente
+312,Simples,Em Obras;Interseção de Vias,Crescente
+313,Simples,Em Obras;Rotatória,Crescente
+314,Dupla,Desvio Temporário;Em Obras,Decrescente
+315,Dupla,Declive;Reta;Retorno Regulamentado,Crescente
+316,Simples,Curva;Retorno Regulamentado;Viaduto,Decrescente
+317,Múltipla,Aclive;Em Obras;Viaduto,Decrescente
+318,Dupla,Declive;Viaduto,Decrescente
+319,Simples,Declive;Interseção de Vias,Crescente
+320,Simples,Interseção de Vias,
+321,Dupla,Curva;Rotatória,Decrescente
+322,Simples,Desvio Temporário,Decrescente
+323,Múltipla,Declive;Interseção de Vias;Reta,Decrescente
+324,Dupla,Aclive;Interseção de Vias;Reta;Rotatória,Crescente
+325,Múltipla,Em Obras,Decrescente
+326,Dupla,Declive;Em Obras;Interseção de Vias;Viaduto,Crescente
+327,Simples,Aclive;Interseção de Vias,Crescente
+328,Simples,Curva;Em Obras;Interseção de Vias,Crescente
+329,Múltipla,Declive;Interseção de Vias,Decrescente
+330,Simples,Desvio Temporário;Em Obras,Crescente
+331,Dupla,Em Obras;Interseção de Vias;Retorno Regulamentado,Crescente
+332,Dupla,Declive;Interseção de Vias;Reta,Crescente
+333,Múltipla,Curva;Interseção de Vias;Rotatória;Viaduto,Crescente
+334,Simples,Aclive;Interseção de Vias,Decrescente
+335,Dupla,Curva;Túnel,Crescente
+336,Dupla,Interseção de Vias;Reta;Rotatória,Decrescente
+337,Dupla,Aclive;Curva;Retorno Regulamentado,Decrescente
+338,Múltipla,Interseção de Vias;Viaduto,Decrescente
+339,Simples,Aclive;Ponte;Reta,Decrescente
+340,Simples,Em Obras;Reta;Rotatória,Crescente
+341,Múltipla,Declive;Desvio Temporário;Em Obras;Reta;Viaduto,Crescente
+342,Dupla,Interseção de Vias;Túnel,Crescente
+343,Dupla,Aclive;Curva;Desvio Temporário;Em Obras,Decrescente
+344,Múltipla,Aclive;Curva;Viaduto,Crescente
+345,Dupla,Curva;Declive;Retorno Regulamentado,Decrescente
+346,Dupla,Interseção de Vias;Reta;Retorno Regulamentado;Rotatória,Crescente
+347,Simples,Rotatória;Viaduto,Crescente
+348,Múltipla,Aclive;Curva;Em Obras,Crescente
+349,Dupla,Curva;Declive;Retorno Regulamentado,Crescente
+350,Múltipla,Em Obras;Interseção de Vias;Rotatória,Crescente
+351,Dupla,Aclive;Interseção de Vias;Reta;Retorno Regulamentado,Crescente
+352,Simples,Curva,
+353,Simples,Curva;Interseção de Vias;Rotatória;Viaduto,Decrescente
+354,Múltipla,Interseção de Vias;Retorno Regulamentado,Decrescente
+355,Simples,Interseção de Vias;Ponte,
+356,Múltipla,Aclive;Interseção de Vias,Crescente
+357,Simples,Curva;Retorno Regulamentado,Decrescente
+358,Dupla,Aclive;Rotatória,Decrescente
+359,Simples,Curva;Interseção de Vias;Retorno Regulamentado;Rotatória,Decrescente
+360,Dupla,Em Obras;Interseção de Vias,Decrescente
+361,Dupla,Em Obras;Reta;Viaduto,Decrescente
+362,Dupla,Desvio Temporário;Reta,Crescente
+363,Simples,Declive;Ponte,Decrescente
+364,Múltipla,Desvio Temporário;Em Obras;Reta,Crescente
+365,Dupla,Curva;Interseção de Vias;Rotatória;Viaduto,Decrescente
+366,Dupla,Desvio Temporário;Em Obras;Reta,Crescente
+367,Simples,Em Obras;Interseção de Vias;Rotatória,Decrescente
+368,Simples,Curva;Desvio Temporário;Em Obras;Retorno Regulamentado;Viaduto,Decrescente
+369,Dupla,Aclive;Em Obras,Decrescente
+370,Simples,Aclive,
+371,Simples,Curva;Declive;Em Obras,Crescente
+372,Múltipla,Reta,
+373,Dupla,Em Obras;Reta;Rotatória,Crescente
+374,Dupla,Aclive;Curva;Retorno Regulamentado,Crescente
+375,Simples,Curva;Ponte;Retorno Regulamentado;Viaduto,Crescente
+376,Simples,Aclive;Interseção de Vias;Rotatória,Decrescente
+377,Dupla,Aclive;Em Obras;Reta,Decrescente
+378,Múltipla,Curva;Declive;Ponte,Crescente
+379,Múltipla,Desvio Temporário;Em Obras,Decrescente
+380,Múltipla,Interseção de Vias;Reta;Rotatória;Viaduto,Decrescente
+381,Simples,Em Obras,Crescente
+382,Dupla,Declive;Em Obras,Decrescente
+383,Dupla,Declive;Viaduto,Crescente
+384,Dupla,Interseção de Vias;Viaduto,Crescente
+385,Dupla,Curva;Declive;Viaduto,Decrescente
+386,Simples,Aclive;Curva;Retorno Regulamentado;Viaduto,Crescente
+387,Dupla,Aclive;Curva,
+388,Dupla,Em Obras;Interseção de Vias;Reta,Crescente
+389,Dupla,Aclive;Interseção de Vias;Reta;Retorno Regulamentado,Decrescente
+390,Simples,Interseção de Vias;Reta;Viaduto,Crescente
+391,Dupla,Curva;Rotatória,Crescente
+392,Simples,Em Obras;Reta;Retorno Regulamentado,Decrescente
+393,Simples,Interseção de Vias;Reta;Retorno Regulamentado;Rotatória,Crescente

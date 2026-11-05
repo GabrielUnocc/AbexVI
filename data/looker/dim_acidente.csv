@@ -1,0 +1,417 @@
+id_acidente,tipo_acidente,causa_acidente,macrocausa
+1,Colisão lateral mesmo sentido,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+2,Colisão frontal,Transitar no Acostamento,Outras
+3,Saída de leito carroçável,Velocidade Incompatível,Comportamento de risco
+4,Colisão lateral mesmo sentido,Manobra de mudança de faixa,Falha de atencao ou reacao
+5,Saída de leito carroçável,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+6,Saída de leito carroçável,Manobra de mudança de faixa,Falha de atencao ou reacao
+7,Colisão traseira,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+8,Colisão transversal,Desrespeitar a preferência no cruzamento,Infracao de transito
+9,Colisão frontal,Velocidade Incompatível,Comportamento de risco
+10,Saída de leito carroçável,Ausência de reação do condutor,Falha de atencao ou reacao
+11,Colisão traseira,Ausência de reação do condutor,Falha de atencao ou reacao
+12,Colisão lateral sentido oposto,Condutor usando celular,Outras
+13,Colisão lateral mesmo sentido,Ausência de reação do condutor,Falha de atencao ou reacao
+14,Saída de leito carroçável,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+15,Colisão frontal,Transitar na contramão,Comportamento de risco
+16,Colisão frontal,Ausência de reação do condutor,Falha de atencao ou reacao
+17,Colisão traseira,Condutor Dormindo,Comportamento de risco
+18,Tombamento,Velocidade Incompatível,Comportamento de risco
+19,Colisão lateral mesmo sentido,Ultrapassagem Indevida,Comportamento de risco
+20,Colisão traseira,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+21,Colisão transversal,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+22,Colisão traseira,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+23,Incêndio,Ausência de reação do condutor,Falha de atencao ou reacao
+24,Colisão lateral mesmo sentido,Desvio temporário,Outras
+25,Tombamento,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+26,Tombamento,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+27,Atropelamento de Pedestre,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+28,Colisão lateral sentido oposto,Condutor Dormindo,Comportamento de risco
+29,Incêndio,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+30,Tombamento,Manobra de mudança de faixa,Falha de atencao ou reacao
+31,Colisão transversal,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+32,Saída de leito carroçável,Frear bruscamente,Outras
+33,Incêndio,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+34,Colisão lateral sentido oposto,Transitar na contramão,Comportamento de risco
+35,Colisão com objeto,Velocidade Incompatível,Comportamento de risco
+36,Colisão traseira,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+37,Colisão traseira,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+38,Colisão traseira,Problema com o freio,Outras
+39,Colisão traseira,Velocidade Incompatível,Comportamento de risco
+40,Colisão lateral sentido oposto,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+41,Atropelamento de Pedestre,Ausência de reação do condutor,Falha de atencao ou reacao
+42,Colisão traseira,Acumulo de água sobre o pavimento,Outras
+43,Colisão traseira,Manobra de mudança de faixa,Falha de atencao ou reacao
+44,Colisão transversal,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+45,Colisão lateral sentido oposto,Mal súbito do condutor,Outras
+46,Colisão frontal,Suicídio (presumido),Outras
+47,Colisão traseira,Frear bruscamente,Outras
+48,Colisão transversal,Ausência de reação do condutor,Falha de atencao ou reacao
+49,Colisão lateral mesmo sentido,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+50,Colisão traseira,Condutor usando celular,Outras
+51,Colisão frontal,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+52,Capotamento,Transitar na contramão,Comportamento de risco
+53,Tombamento,Acostamento em desnível,Outras
+54,Colisão traseira,Ultrapassagem Indevida,Comportamento de risco
+55,Colisão frontal,Ultrapassagem Indevida,Comportamento de risco
+56,Colisão transversal,Retorno proibido,Outras
+57,Engavetamento,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+58,Colisão transversal,Velocidade Incompatível,Comportamento de risco
+59,Colisão frontal,Manobra de mudança de faixa,Falha de atencao ou reacao
+60,Colisão frontal,Condutor Dormindo,Comportamento de risco
+61,Saída de leito carroçável,Pista Escorregadia,Condicao da via ou ambiente
+62,Colisão com objeto,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+63,Colisão frontal,Afundamento ou ondulação no pavimento,Outras
+64,Tombamento,Ausência de reação do condutor,Falha de atencao ou reacao
+65,Colisão lateral mesmo sentido,Velocidade Incompatível,Comportamento de risco
+66,Colisão traseira,Neblina,Outras
+67,Colisão lateral mesmo sentido,Ingestão de álcool pelo condutor,Alcool ou substancias
+68,Colisão lateral sentido oposto,Ingestão de álcool pelo condutor,Alcool ou substancias
+69,Colisão com objeto,Condutor Dormindo,Comportamento de risco
+70,Saída de leito carroçável,Condutor Dormindo,Comportamento de risco
+71,Saída de leito carroçável,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+72,Tombamento,Acumulo de óleo sobre o pavimento,Outras
+73,Colisão transversal,Ultrapassagem Indevida,Comportamento de risco
+74,Colisão transversal,Condutor desrespeitou a iluminação vermelha do semáforo,Outras
+75,Colisão lateral mesmo sentido,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+76,Colisão frontal,Retorno proibido,Outras
+77,Colisão lateral sentido oposto,Ultrapassagem Indevida,Comportamento de risco
+78,Tombamento,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+79,Atropelamento de Pedestre,Acesso irregular,Outras
+80,Colisão lateral sentido oposto,Velocidade Incompatível,Comportamento de risco
+81,Engavetamento,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+82,Atropelamento de Pedestre,Entrada inopinada do pedestre,Outras
+83,Atropelamento de Pedestre,Suicídio (presumido),Outras
+84,Colisão traseira,Ingestão de álcool pelo condutor,Alcool ou substancias
+85,Colisão frontal,Acesso irregular,Outras
+86,Colisão lateral sentido oposto,Manobra de mudança de faixa,Falha de atencao ou reacao
+87,Engavetamento,Velocidade Incompatível,Comportamento de risco
+88,Colisão traseira,Estacionar ou parar em local proibido,Outras
+89,Colisão lateral sentido oposto,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+90,Colisão lateral mesmo sentido,Conversão proibida,Outras
+91,Colisão frontal,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+92,Colisão com objeto,Fumaça,Outras
+93,Atropelamento de Pedestre,Pedestre andava na pista,Pedestre ou ciclista
+94,Eventos atípicos,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+95,Colisão frontal,Acumulo de areia ou detritos sobre o pavimento,Outras
+96,Colisão frontal,Conversão proibida,Outras
+97,Colisão lateral sentido oposto,Ausência de reação do condutor,Falha de atencao ou reacao
+98,Derramamento de carga,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+99,Colisão com objeto,Ausência de reação do condutor,Falha de atencao ou reacao
+100,Colisão frontal,Ingestão de álcool pelo condutor,Alcool ou substancias
+101,Saída de leito carroçável,Chuva,Condicao da via ou ambiente
+102,Colisão frontal,Transtornos Mentais (exceto suicidio),Outras
+103,Saída de leito carroçável,Ingestão de álcool pelo condutor,Alcool ou substancias
+104,Saída de leito carroçável,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+105,Tombamento,Condutor Dormindo,Comportamento de risco
+106,Colisão lateral mesmo sentido,Falta de acostamento,Outras
+107,Saída de leito carroçável,Ultrapassagem Indevida,Comportamento de risco
+108,Saída de leito carroçável,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+109,Colisão transversal,Ingestão de álcool pelo condutor,Alcool ou substancias
+110,Queda de ocupante de veículo,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+111,Colisão frontal,Desrespeitar a preferência no cruzamento,Infracao de transito
+112,Colisão lateral mesmo sentido,Mal súbito do condutor,Outras
+113,Colisão lateral mesmo sentido,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+114,Colisão transversal,Acesso irregular,Outras
+115,Colisão frontal,Objeto estático sobre o leito carroçável,Fator externo
+116,Colisão traseira,Objeto estático sobre o leito carroçável,Fator externo
+117,Tombamento,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+118,Atropelamento de Pedestre,Transitar no Acostamento,Outras
+119,Colisão lateral mesmo sentido,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+120,Saída de leito carroçável,Acostamento em desnível,Outras
+121,Colisão lateral sentido oposto,Objeto estático sobre o leito carroçável,Fator externo
+122,Queda de ocupante de veículo,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+123,Colisão transversal,Pista Escorregadia,Condicao da via ou ambiente
+124,Tombamento,Curva acentuada,Outras
+125,Colisão traseira,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+126,Colisão com objeto,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+127,Atropelamento de Pedestre,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+128,Incêndio,Problema com o freio,Outras
+129,Colisão traseira,Mal súbito do condutor,Outras
+130,Atropelamento de Pedestre,Pedestre cruzava a pista fora da faixa,Pedestre ou ciclista
+131,Atropelamento de Pedestre,Pedestre - Ingestão de álcool/ substâncias psicoativas,Outras
+132,Capotamento,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+133,Colisão com objeto,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+134,Colisão com objeto,Condutor usando celular,Outras
+135,Queda de ocupante de veículo,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+136,Colisão frontal,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+137,Colisão traseira,Acesso irregular,Outras
+138,Colisão transversal,Conversão proibida,Outras
+139,Colisão traseira,Transtornos Mentais (exceto suicidio),Outras
+140,Colisão frontal,Pista Escorregadia,Condicao da via ou ambiente
+141,Colisão com objeto,Ingestão de álcool pelo condutor,Alcool ou substancias
+142,Saída de leito carroçável,Falta de elemento de contenção que evite a saída do leito carroçável,Outras
+143,Colisão transversal,Acumulo de água sobre o pavimento,Outras
+144,Colisão com objeto,Transitar no Acostamento,Outras
+145,Engavetamento,Ausência de reação do condutor,Falha de atencao ou reacao
+146,Colisão transversal,Deficiência do Sistema de Iluminação/Sinalização,Outras
+147,Saída de leito carroçável,Mal súbito do condutor,Outras
+148,Engavetamento,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+149,Capotamento,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+150,Queda de ocupante de veículo,Ultrapassagem Indevida,Comportamento de risco
+151,Colisão lateral mesmo sentido,Condutor Dormindo,Comportamento de risco
+152,Capotamento,Velocidade Incompatível,Comportamento de risco
+153,Capotamento,Acostamento em desnível,Outras
+154,Colisão com objeto,Objeto estático sobre o leito carroçável,Fator externo
+155,Colisão lateral mesmo sentido,Problema com o freio,Outras
+156,Capotamento,Ausência de reação do condutor,Falha de atencao ou reacao
+157,Colisão lateral sentido oposto,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+158,Saída de leito carroçável,Pista esburacada,Outras
+159,Tombamento,Problema com o freio,Outras
+160,Queda de ocupante de veículo,Ausência de reação do condutor,Falha de atencao ou reacao
+161,Tombamento,Ingestão de álcool pelo condutor,Alcool ou substancias
+162,Colisão com objeto,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+163,Colisão frontal,Chuva,Condicao da via ou ambiente
+164,Colisão transversal,Manobra de mudança de faixa,Falha de atencao ou reacao
+165,Engavetamento,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+166,Colisão com objeto,Chuva,Condicao da via ou ambiente
+167,Atropelamento de Pedestre,Ingestão de álcool pelo condutor,Alcool ou substancias
+168,Colisão traseira,Iluminação deficiente,Outras
+169,Tombamento,Acesso irregular,Outras
+170,Capotamento,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+171,Colisão transversal,Mal súbito do condutor,Outras
+172,Atropelamento de Pedestre,Transitar na contramão,Comportamento de risco
+173,Colisão transversal,Transitar na contramão,Comportamento de risco
+174,Colisão frontal,Acumulo de água sobre o pavimento,Outras
+175,Capotamento,Condutor Dormindo,Comportamento de risco
+176,Colisão lateral mesmo sentido,Condutor usando celular,Outras
+177,Tombamento,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+178,Colisão lateral sentido oposto,Deficiência do Sistema de Iluminação/Sinalização,Outras
+179,Colisão com objeto,Mal súbito do condutor,Outras
+180,Tombamento,Ultrapassagem Indevida,Comportamento de risco
+181,Saída de leito carroçável,Problema com o freio,Outras
+182,Colisão traseira,Transitar no Acostamento,Outras
+183,Tombamento,Declive acentuado,Outras
+184,Eventos atípicos,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+185,Derramamento de carga,Acumulo de areia ou detritos sobre o pavimento,Outras
+186,Colisão traseira,Ausência de sinalização,Outras
+187,Saída de leito carroçável,Transitar na contramão,Comportamento de risco
+188,Incêndio,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+189,Colisão com objeto,Pedestre cruzava a pista fora da faixa,Pedestre ou ciclista
+190,Tombamento,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+191,Colisão lateral mesmo sentido,Desrespeitar a preferência no cruzamento,Infracao de transito
+192,Colisão com objeto,Acumulo de água sobre o pavimento,Outras
+193,Derramamento de carga,Objeto estático sobre o leito carroçável,Fator externo
+194,Colisão transversal,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+195,Atropelamento de Pedestre,Problema com o freio,Outras
+196,Colisão traseira,Chuva,Condicao da via ou ambiente
+197,Saída de leito carroçável,Curva acentuada,Outras
+198,Colisão transversal,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+199,Colisão transversal,Problema com o freio,Outras
+200,Tombamento,Transtornos Mentais (exceto suicidio),Outras
+201,Colisão frontal,Mal súbito do condutor,Outras
+202,Colisão lateral mesmo sentido,Retorno proibido,Outras
+203,Colisão lateral mesmo sentido,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+204,Colisão traseira,Restrição de visibilidade em curvas verticais,Outras
+205,Colisão lateral mesmo sentido,Transitar no Acostamento,Outras
+206,Tombamento,Mal súbito do condutor,Outras
+207,Colisão transversal,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+208,Engavetamento,Problema com o freio,Outras
+209,Colisão transversal,Condutor usando celular,Outras
+210,Incêndio,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+211,Colisão lateral mesmo sentido,Acesso irregular,Outras
+212,Colisão traseira,Deficiência do Sistema de Iluminação/Sinalização,Outras
+213,Colisão traseira,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+214,Engavetamento,Manobra de mudança de faixa,Falha de atencao ou reacao
+215,Queda de ocupante de veículo,Condutor Dormindo,Comportamento de risco
+216,Colisão traseira,Desrespeitar a preferência no cruzamento,Infracao de transito
+217,Colisão lateral sentido oposto,Pista Escorregadia,Condicao da via ou ambiente
+218,Tombamento,Objeto estático sobre o leito carroçável,Fator externo
+219,Saída de leito carroçável,Acumulo de água sobre o pavimento,Outras
+220,Colisão lateral sentido oposto,Acumulo de água sobre o pavimento,Outras
+221,Colisão transversal,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+222,Colisão traseira,Sinalização mal posicionada,Outras
+223,Colisão lateral sentido oposto,Curva acentuada,Outras
+224,Tombamento,Demais falhas na via,Outras
+225,Tombamento,Acumulo de areia ou detritos sobre o pavimento,Outras
+226,Colisão lateral mesmo sentido,Transitar na contramão,Comportamento de risco
+227,Colisão com objeto,Manobra de mudança de faixa,Falha de atencao ou reacao
+228,Saída de leito carroçável,Acumulo de areia ou detritos sobre o pavimento,Outras
+229,Colisão lateral mesmo sentido,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+230,Saída de leito carroçável,Falta de acostamento,Outras
+231,Derramamento de carga,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+232,Derramamento de carga,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+233,Saída de leito carroçável,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+234,Saída de leito carroçável,Objeto estático sobre o leito carroçável,Fator externo
+235,Eventos atípicos,Carga excessiva e/ou mal acondicionada,Condicao do veiculo
+236,Colisão com objeto,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+237,Queda de ocupante de veículo,Transtornos Mentais (exceto suicidio),Outras
+238,Atropelamento de Pedestre,Transtornos Mentais (exceto suicidio),Outras
+239,Atropelamento de Animal,Animais na Pista,Fator externo
+240,Colisão lateral sentido oposto,Pista esburacada,Outras
+241,Colisão lateral mesmo sentido,Objeto estático sobre o leito carroçável,Fator externo
+242,Colisão lateral sentido oposto,Acesso irregular,Outras
+243,Colisão transversal,Transitar no Acostamento,Outras
+244,Derramamento de carga,Ausência de reação do condutor,Falha de atencao ou reacao
+245,Colisão frontal,Condutor usando celular,Outras
+246,Capotamento,Ingestão de álcool pelo condutor,Alcool ou substancias
+247,Queda de ocupante de veículo,Chuva,Condicao da via ou ambiente
+248,Capotamento,Acumulo de água sobre o pavimento,Outras
+249,Capotamento,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+250,Colisão com objeto,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+251,Queda de ocupante de veículo,Pista esburacada,Outras
+252,Colisão lateral sentido oposto,Retorno proibido,Outras
+253,Capotamento,Chuva,Condicao da via ou ambiente
+254,Engavetamento,Condutor usando celular,Outras
+255,Colisão frontal,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+256,Queda de ocupante de veículo,Animais na Pista,Fator externo
+257,Queda de ocupante de veículo,Demais falhas mecânicas ou elétricas,Condicao do veiculo
+258,Queda de ocupante de veículo,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+259,Queda de ocupante de veículo,Velocidade Incompatível,Comportamento de risco
+260,Tombamento,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+261,Engavetamento,Frear bruscamente,Outras
+262,Saída de leito carroçável,Problema na suspensão,Outras
+263,Eventos atípicos,Problema com o freio,Outras
+264,Atropelamento de Pedestre,Transitar na calçada,Outras
+265,Colisão com objeto,Ausência de sinalização,Outras
+266,Atropelamento de Pedestre,Condutor usando celular,Outras
+267,Colisão lateral mesmo sentido,Iluminação deficiente,Outras
+268,Queda de ocupante de veículo,Desrespeitar a preferência no cruzamento,Infracao de transito
+269,Colisão com objeto,Acumulo de óleo sobre o pavimento,Outras
+270,Colisão traseira,Animais na Pista,Fator externo
+271,Engavetamento,Ingestão de álcool pelo condutor,Alcool ou substancias
+272,Queda de ocupante de veículo,Pista Escorregadia,Condicao da via ou ambiente
+273,Queda de ocupante de veículo,Transitar na contramão,Comportamento de risco
+274,Colisão frontal,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+275,Colisão transversal,Iluminação deficiente,Outras
+276,Colisão traseira,Conversão proibida,Outras
+277,Tombamento,Afundamento ou ondulação no pavimento,Outras
+278,Colisão com objeto,Entrada inopinada do pedestre,Outras
+279,Colisão lateral sentido oposto,Desrespeitar a preferência no cruzamento,Infracao de transito
+280,Queda de ocupante de veículo,Ausência de sinalização,Outras
+281,Tombamento,Pista esburacada,Outras
+282,Saída de leito carroçável,Desrespeitar a preferência no cruzamento,Infracao de transito
+283,Tombamento,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+284,Saída de leito carroçável,Condutor usando celular,Outras
+285,Colisão frontal,Acumulo de óleo sobre o pavimento,Outras
+286,Colisão com objeto,Suicídio (presumido),Outras
+287,Tombamento,Acumulo de água sobre o pavimento,Outras
+288,Queda de ocupante de veículo,Ingestão de álcool pelo condutor,Alcool ou substancias
+289,Colisão com objeto,Demais falhas na via,Outras
+290,Tombamento,Animais na Pista,Fator externo
+291,Tombamento,Pista Escorregadia,Condicao da via ou ambiente
+292,Colisão traseira,Retorno proibido,Outras
+293,Colisão lateral sentido oposto,Conversão proibida,Outras
+294,Saída de leito carroçável,Ausência de sinalização,Outras
+295,Queda de ocupante de veículo,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+296,Colisão lateral mesmo sentido,Sinalização encoberta,Outras
+297,Atropelamento de Pedestre,Ultrapassagem Indevida,Comportamento de risco
+298,Queda de ocupante de veículo,Frear bruscamente,Outras
+299,Eventos atípicos,Afundamento ou ondulação no pavimento,Outras
+300,Tombamento,Chuva,Condicao da via ou ambiente
+301,Atropelamento de Animal,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+302,Saída de leito carroçável,Acesso irregular,Outras
+303,Atropelamento de Pedestre,Velocidade Incompatível,Comportamento de risco
+304,Saída de leito carroçável,Demais falhas na via,Outras
+305,Colisão com objeto,Demais Fenômenos da natureza,Outras
+306,Queda de ocupante de veículo,Acumulo de areia ou detritos sobre o pavimento,Outras
+307,Queda de ocupante de veículo,Pedestre andava na pista,Pedestre ou ciclista
+308,Saída de leito carroçável,Suicídio (presumido),Outras
+309,Colisão lateral mesmo sentido,Frear bruscamente,Outras
+310,Capotamento,Demais falhas na via,Outras
+311,Queda de ocupante de veículo,Objeto estático sobre o leito carroçável,Fator externo
+312,Queda de ocupante de veículo,Afundamento ou ondulação no pavimento,Outras
+313,Atropelamento de Pedestre,Faixas de trânsito com largura insuficiente,Outras
+314,Atropelamento de Pedestre,Área urbana sem a presença de local apropriado para a travessia de pedestres,Outras
+315,Capotamento,Pista Escorregadia,Condicao da via ou ambiente
+316,Colisão traseira,Pista Escorregadia,Condicao da via ou ambiente
+317,Capotamento,Manobra de mudança de faixa,Falha de atencao ou reacao
+318,Colisão lateral sentido oposto,Faixas de trânsito com largura insuficiente,Outras
+319,Queda de ocupante de veículo,Manobra de mudança de faixa,Falha de atencao ou reacao
+320,Colisão com objeto,Iluminação deficiente,Outras
+321,Atropelamento de Animal,Ausência de reação do condutor,Falha de atencao ou reacao
+322,Atropelamento de Animal,Reação tardia ou ineficiente do condutor,Falha de atencao ou reacao
+323,Colisão com objeto,Deficiência do Sistema de Iluminação/Sinalização,Outras
+324,Colisão com objeto,Problema na suspensão,Outras
+325,Engavetamento,Chuva,Condicao da via ou ambiente
+326,Saída de leito carroçável,Animais na Pista,Fator externo
+327,Colisão traseira,Transitar na contramão,Comportamento de risco
+328,Saída de leito carroçável,Retorno proibido,Outras
+329,Eventos atípicos,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+330,Queda de ocupante de veículo,Demais falhas na via,Outras
+331,Colisão com objeto,Acumulo de areia ou detritos sobre o pavimento,Outras
+332,Capotamento,Frear bruscamente,Outras
+333,Colisão com objeto,Pista Escorregadia,Condicao da via ou ambiente
+334,Tombamento,Falta de acostamento,Outras
+335,Atropelamento de Pedestre,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+336,Colisão transversal,Restrição de visibilidade em curvas verticais,Outras
+337,Colisão traseira,Participar de racha,Outras
+338,Colisão com objeto,Transitar na contramão,Comportamento de risco
+339,Tombamento,Participar de racha,Outras
+340,Colisão traseira,Acumulo de areia ou detritos sobre o pavimento,Outras
+341,Colisão com objeto,Afundamento ou ondulação no pavimento,Outras
+342,Queda de ocupante de veículo,Acostamento em desnível,Outras
+343,Eventos atípicos,Mal súbito do condutor,Outras
+344,Saída de leito carroçável,Afundamento ou ondulação no pavimento,Outras
+345,Queda de ocupante de veículo,Acumulo de óleo sobre o pavimento,Outras
+346,Colisão lateral mesmo sentido,Avarias e/ou desgaste excessivo no pneu,Condicao do veiculo
+347,Atropelamento de Pedestre,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+348,Capotamento,Deficiência do Sistema de Iluminação/Sinalização,Outras
+349,Colisão lateral mesmo sentido,Estacionar ou parar em local proibido,Outras
+350,Colisão com objeto,Transtornos Mentais (exceto suicidio),Outras
+351,Capotamento,Condutor usando celular,Outras
+352,Colisão com objeto,Acesso irregular,Outras
+353,Queda de ocupante de veículo,Transitar no Acostamento,Outras
+354,Colisão traseira,Condutor desrespeitou a iluminação vermelha do semáforo,Outras
+355,Colisão lateral sentido oposto,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+356,Tombamento,Retorno proibido,Outras
+357,Atropelamento de Pedestre,Iluminação deficiente,Outras
+358,Atropelamento de Pedestre,Sinalização mal posicionada,Outras
+359,Colisão com objeto,Frear bruscamente,Outras
+360,Engavetamento,Mal súbito do condutor,Outras
+361,Incêndio,Deficiência do Sistema de Iluminação/Sinalização,Outras
+362,Saída de leito carroçável,Transtornos Mentais (exceto suicidio),Outras
+363,Queda de ocupante de veículo,Transitar na calçada,Outras
+364,Queda de ocupante de veículo,Mal súbito do condutor,Outras
+365,Saída de leito carroçável,Sinalização mal posicionada,Outras
+366,Colisão lateral mesmo sentido,Chuva,Condicao da via ou ambiente
+367,Queda de ocupante de veículo,Acumulo de água sobre o pavimento,Outras
+368,Queda de ocupante de veículo,Demais Fenômenos da natureza,Outras
+369,Colisão com objeto,Curva acentuada,Outras
+370,Capotamento,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+371,Atropelamento de Pedestre,Participar de racha,Outras
+372,Tombamento,Redutor de velocidade em desacordo,Outras
+373,Colisão frontal,Demais Fenômenos da natureza,Outras
+374,Colisão com objeto,Participar de racha,Outras
+375,Colisão traseira,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+376,Saída de leito carroçável,Iluminação deficiente,Outras
+377,Colisão com objeto,Trafegar com motocicleta (ou similar) entre as faixas,Comportamento de risco
+378,Saída de leito carroçável,Faróis desregulados,Outras
+379,Colisão lateral mesmo sentido,Participar de racha,Outras
+380,Colisão com objeto,Problema com o freio,Outras
+381,Tombamento,Sinalização mal posicionada,Outras
+382,Eventos atípicos,Ausência de sinalização,Outras
+383,Tombamento,Pedestre cruzava a pista fora da faixa,Pedestre ou ciclista
+384,Saída de leito carroçável,Deficiência do Sistema de Iluminação/Sinalização,Outras
+385,Incêndio,Objeto estático sobre o leito carroçável,Fator externo
+386,Saída de leito carroçável,Neblina,Outras
+387,Queda de ocupante de veículo,Deixar de acionar o farol da motocicleta (ou similar),Outras
+388,Colisão transversal,Sinalização mal posicionada,Outras
+389,Colisão transversal,Ausência de sinalização,Outras
+390,Saída de leito carroçável,Demais Fenômenos da natureza,Outras
+391,Queda de ocupante de veículo,Acesso irregular,Outras
+392,Eventos atípicos,Acessar a via sem observar a presença dos outros veículos,Falha de atencao ou reacao
+393,Colisão com objeto,Pista esburacada,Outras
+394,Colisão transversal,Pedestre cruzava a pista fora da faixa,Pedestre ou ciclista
+395,Saída de leito carroçável,Declive acentuado,Outras
+396,Colisão transversal,Frear bruscamente,Outras
+397,Tombamento,Demais Fenômenos da natureza,Outras
+398,Colisão lateral sentido oposto,Condutor deixou de manter distância do veículo da frente,Falha de atencao ou reacao
+399,Colisão lateral mesmo sentido,Pedestre cruzava a pista fora da faixa,Pedestre ou ciclista
+400,Saída de leito carroçável,Conversão proibida,Outras
+401,Colisão com objeto,Pedestre andava na pista,Pedestre ou ciclista
+402,Colisão lateral mesmo sentido,Pista Escorregadia,Condicao da via ou ambiente
+403,Capotamento,Acesso irregular,Outras
+404,Colisão lateral mesmo sentido,Condutor desrespeitou a iluminação vermelha do semáforo,Outras
+405,Tombamento,Ausência de sinalização,Outras
+406,Colisão com objeto,Ingestão de substâncias psicoativas pelo condutor,Alcool ou substancias
+407,Tombamento,Transitar na contramão,Comportamento de risco
+408,Colisão lateral mesmo sentido,Acumulo de água sobre o pavimento,Outras
+409,Colisão traseira,Desvio temporário,Outras
+410,Colisão frontal,Ausência de sinalização,Outras
+411,Colisão transversal,Chuva,Condicao da via ou ambiente
+412,Colisão com objeto,Ultrapassagem Indevida,Comportamento de risco
+413,Tombamento,Transitar no Acostamento,Outras
+414,Colisão transversal,Participar de racha,Outras
+415,Colisão lateral sentido oposto,Condutor desrespeitou a iluminação vermelha do semáforo,Outras
+416,Tombamento,Neblina,Outras

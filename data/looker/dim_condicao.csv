@@ -1,0 +1,31 @@
+id_condicao,condicao_metereologica,fase_dia
+1,Nublado,Amanhecer
+2,Céu Claro,Pleno dia
+3,Chuva,Anoitecer
+4,Chuva,Pleno dia
+5,Nublado,Pleno dia
+6,Céu Claro,Plena Noite
+7,Sol,Pleno dia
+8,Céu Claro,Anoitecer
+9,Nublado,Plena Noite
+10,Nublado,Anoitecer
+11,Céu Claro,Amanhecer
+12,,Plena Noite
+13,Garoa/Chuvisco,Anoitecer
+14,,Anoitecer
+15,Nevoeiro/Neblina,Plena Noite
+16,Garoa/Chuvisco,Pleno dia
+17,Chuva,Plena Noite
+18,,Pleno dia
+19,Garoa/Chuvisco,Plena Noite
+20,Nevoeiro/Neblina,Pleno dia
+21,Nevoeiro/Neblina,Amanhecer
+22,Chuva,Amanhecer
+23,Garoa/Chuvisco,Amanhecer
+24,Sol,Anoitecer
+25,Sol,Amanhecer
+26,Vento,Plena Noite
+27,Neve,Plena Noite
+28,Nevoeiro/Neblina,Anoitecer
+29,,Amanhecer
+30,Vento,Anoitecer
